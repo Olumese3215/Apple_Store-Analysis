@@ -50,5 +50,39 @@ Applied a structured and logical approach to define relevant research questions 
 Demonstrated precision in data processing and analysis to ensure accurate results and reliable conclusions.
 
 ## Insights 
+From the analysis, the following insights 
+
+
+-The analysis revealed that paid Apps having a slightly higher ratings than free apps.
+
+-The analysis revealed also that apps with long description length had a more positive user rating.Indicating the importance of well-crafted 
+ app descriptions to engage and satisfy users.
+
+-The analysis revealed the Top 10 genre with low -ratings.By being aware of these genres, developers can approach their app
+ development strategies with insights into potential challenges and areas for improvement.
+
+-Apps with support for multiple languages tend to receive higher user ratings on average. This suggests that catering to diverse language preferences can positively impact user satisfaction and potentially expand the app's global reach.
+
+-Top-Rated Apps Across Genres: The project compiled a list of top-rated apps for each genre, showcasing successful examples that developers can draw inspiration from when creating new apps. Studying these top-rated apps can provide valuable insights into the features and qualities that users highly appreciate.
+
+
+## Recommendations
+
+--Consider offering a mix of free and paid features (freemium model) or exploring in-app purchases to provide users with the option to try the app before making a purchase.
+
+--Interestingly our analysis revealed that apps modern number of languages between 10 and 30 had the highest average ratings.Hence,it is not 
+mainly about quantity of language but focusing on the right languages for your app.
+
+--Finance and Books apps have low ratings this can create a market opportunity as if you can create a quality app in these categories better   
+  than the current offering there is potential for high user ratings and market penetration.
+
+-- The length of the app description has a postive correlation with user- ratings,So users highly appreciate having a clear understanding of the 
+   app's features and capabilities before they download so a detailed well crafted description can set click expectation and eventually increase
+   the satisfaction of user.
+
+
+
+ 
+
 
 
