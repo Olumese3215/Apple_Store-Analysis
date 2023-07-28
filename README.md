@@ -30,3 +30,21 @@ strategies.This Project will help aspiring app developer who needs data-driven i
  5.**What are the top-rated apps for each genre?**
  
  Identifying the highest-rated apps within each genre will inspire developers and offer valuable benchmarks for creating successful apps.
+
+## **Skills Demonstrated**
+
+ -**Data Analysis**
+ 
+ Demonstrated ability to analyze large datasets from the Apple Store using SQL queries. Employed data exploration techniques to identify patterns and trends, facilitating evidence-based decision-making for app development.
+
+-**SQL Proficiency** 
+
+Utilized SQL (Structured Query Language) to extract, manipulate, and aggregate data from the Apple Store database. Formulate complex queries to address specific research questions and retrieve relevant information efficiently.
+
+-**Problem-Solving Skills**
+
+Applied a structured and logical approach to define relevant research questions for app development insights.
+
+-**Attention to Detail**
+
+Demonstrated precision in data processing and analysis to ensure accurate results and reliable conclusions.
