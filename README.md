@@ -23,8 +23,10 @@ strategies.This Project will help aspiring app developer who needs data-driven i
  for innovation.
  
  4.**Does the length of the app description affect user ratings?**
+ 
  Analyzing the connection between app description length and user ratings will provide insights into optimizing app presentation for higher user 
  engagement. 
  
  5.**What are the top-rated apps for each genre?**
+ 
  Identifying the highest-rated apps within each genre will inspire developers and offer valuable benchmarks for creating successful apps.
