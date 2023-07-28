@@ -48,3 +48,7 @@ Applied a structured and logical approach to define relevant research questions 
 -**Attention to Detail**
 
 Demonstrated precision in data processing and analysis to ensure accurate results and reliable conclusions.
+
+## Insights 
+
+
